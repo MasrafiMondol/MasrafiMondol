@@ -14,3 +14,6 @@ the main issue having is that I cant make the design right.
 
 **#day4 of 100days of code**
 just doing some review on onine video to get the things and design right still having the day3 issue. it still there. I'm so bad at this.
+
+**#day5 of 100days of code**
+I don't know what the hek im doing anymore. there a lot of things that is going top of my head. lets learn flex box well. because sometime it working and sometime it is not.
